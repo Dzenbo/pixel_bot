@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Pixel Bot 2ch
+// @name         Void
 // @namespace    http://tampermonkey.net/
 // @version      1.4.88ar
 // @description  try to take over the world!
