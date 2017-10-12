@@ -5,15 +5,15 @@
 // @description  try to take over the world!
 // @author       Flyink13, DarkKeks, xi
 // @match        https://pixel.vkforms.ru/*
-// @downloadURL  https://raw.githubusercontent.com/Extered/pixwars/gh-pages/PixelDefender.js
-// @updateURL    https://raw.githubusercontent.com/Extered/pixwars/gh-pages/PixelDefender.js
+// @downloadURL  https://raw.githubusercontent.com/Dzenbo/pixel_bot/master/PixelBot.js
+// @updateURL    https://raw.githubusercontent.com/Dzenbo/pixel_bot/master/PixelBot.js
 // @grant        none
 // ==/UserScript==
 
 function XIDefBot() {
     window.XIDefBot = XIDefBot;
     XIDefBot.url = {
-        script: 'https://gitlab.com/dzenbo/pix-bot/raw/master/PixelBot.js'
+        script: 'https://raw.githubusercontent.com/Dzenbo/pixel_bot/master/defence.json'
     };
     XIDefBot.refreshTime = 300;
     XIDefBot.pts = 30;
